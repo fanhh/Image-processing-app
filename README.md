@@ -21,4 +21,5 @@ In this part, we will create a premium version of the app with new and advanced 
 
 In this part, we will implement a K-Nearest Neighbor classifier to predict the labels of images. We will train the classifier on a dataset of labeled images and use it to classify new images uploaded by the user.
 
-# Overall, this project will provide a good understanding of how images are stored and processed in code. It will also help in developing programming skills in Python and working with classes and methods. The final product will be an image processing app that can be used for basic image manipulations and advanced image analysis.
+# Overall
+This project will provide a good understanding of how images are stored and processed in code. It will also help in developing programming skills in Python and working with classes and methods. The final product will be an image processing app that can be used for basic image manipulations and advanced image analysis.
